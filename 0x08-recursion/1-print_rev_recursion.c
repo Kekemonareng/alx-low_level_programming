@@ -11,6 +11,3 @@ void _print_rev_recursion(char *s)
 		_putchar(*s);
 	}
 }
-		return (1);
-	return (n * factorial(n - 1));
-}
